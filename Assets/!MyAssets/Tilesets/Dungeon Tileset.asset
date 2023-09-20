@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c58daaa4c0d38d42802c2a5a59bf36d, type: 3}
+  m_Name: Dungeon Tileset
+  m_EditorClassIdentifier: 
+  startingModules:
+  - {fileID: 7899202385290161864, guid: 4c6c7dbdec5f54046b79e06d900b4a3a, type: 3}
+  allModules:
+  - {fileID: 2556407282625624204, guid: 8d8240096cc581344bad68a2b3107e0a, type: 3}
+  - {fileID: 3227619157268302295, guid: f4d8b11781063ce499bd3b872a9bb908, type: 3}
+  - {fileID: 7164715998003294669, guid: 6a68913e6b0913a479dff57f95b3cb0b, type: 3}
+  - {fileID: 6243643162135748104, guid: 6ae2aad03f179844c8049f7c1b7cf148, type: 3}
+  - {fileID: 3532428466712430534, guid: 9e3536854d6bc494ca56c36c0313797e, type: 3}
